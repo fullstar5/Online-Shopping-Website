@@ -1,0 +1,21 @@
+.DS_Store
+<<<<<<< Updated upstream
+=======
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
+>>>>>>> Stashed changes
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+demo-0.0.1-SNAPSHOT.jar
